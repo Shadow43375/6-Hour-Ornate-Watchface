@@ -1,0 +1,35 @@
+{
+    "author": "enyab.null@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "6hourclockfaceornate",
+    "pebble": {
+        "displayName": "6HourClockFaceOrnate",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "images/6face2converted.png",
+                    "name": "Clock_Face",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk",
+            "diorite",
+            "emery"
+        ],
+        "uuid": "114a581f-fbd9-4020-a344-81feac4a5866",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.0.0"
+}
